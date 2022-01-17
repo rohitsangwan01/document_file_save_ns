@@ -1,10 +1,11 @@
-# document_file_save
+# document_file_save_ns
 Save bytes data into Download folder (Android), or show save dialog (iOS). You can save any file types (Ex. .txt, .png, .jpg, .pdf, etc)
+, null safe version of package document_file_save
 
 ## Install plugin
 add this line into pubspec.yaml
 ```
-document_file_save: ^1.0.3
+document_file_save: ^1.0.4
 ```
 
 ## Permission
