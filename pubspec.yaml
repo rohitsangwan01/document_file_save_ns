@@ -1,10 +1,10 @@
 name: document_file_save
 description: Save bytes data into Download folder (Android), or show save dialog (iOS).
-version: 1.0.3
-homepage: https://github.com/piyapan039285/document_file_save
+version: 1.0.4
+homepage: https://github.com/rohitsangwan01/document_file_save_ns
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: ">=2.12.0 <3.0.0"
   flutter: ">=1.20.0"
 
 dependencies:
